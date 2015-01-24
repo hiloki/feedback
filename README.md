@@ -4,7 +4,7 @@ GitHubのIssuesで質問や問い合わせを受け付けます。
 
 ### Issuesから投稿する
 
-このリポジトリのIssueとして、[New Issue](https://github.com/holman/feedback/issues/new) から投稿します。
+このリポジトリのIssueとして、[New Issue](https://github.com/hiloki/feedback/issues/new) から投稿します。
 
 いただいたIssueにはなるべく早めに回答したいとおもいます。
 （が、なかなか回答できない場合もあるかもしれないので、そのときは気長にお待ちください）
@@ -13,7 +13,7 @@ GitHubのIssuesで質問や問い合わせを受け付けます。
 
 ### 過去におなじ質問がないかを確認する
 
-回答したものはCloseされます。過去の質問は [Closed Issues](https://github.com/holman/feedback/issues?sort=created&direction=desc&state=closed&page=1)から確認できるので、質問される前に目を通すと良さそうです。
+回答したものはCloseされます。過去の質問は [Closed Issues](https://github.com/hiloki/feedback/issues?sort=created&direction=desc&state=closed&page=1)から確認できるので、質問される前に目を通すと良さそうです。
 
 ---
 
