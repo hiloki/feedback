@@ -6,6 +6,10 @@ GitHubのIssuesで質問や問い合わせを受け付けます。
 
 このリポジトリのIssueとして、[New Issue](https://github.com/hiloki/feedback/issues/new) から投稿します。
 
+> [https://github.com/hiloki/feedback/issues/1](https://github.com/hiloki/feedback/issues/1)
+> 
+> [HTML5 Conference](http://events.html5j.org/conference/2015/1/)での発表についての質問、その他フィードバック、励ましのメッセージなどありましたら、こちらにどうぞ。
+
 いただいたIssueにはなるべく早めに回答したいとおもいます。
 （が、なかなか回答できない場合もあるかもしれないので、そのときは気長にお待ちください）
 
